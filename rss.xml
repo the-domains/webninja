@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[webninja]]></title>
+        <description><![CDATA[webninja]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jul 2016 22:27:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Top 50 Worship Songs We Sang Last Weekend | Worshipfuel]]></title>
+            <description><![CDATA[<article><h1>The Top 50 Worship Songs We Sang Last Weekend | Worshipfuel</h1><p>Tucked in the rainy Northwest corner of the United States, just outside of Portland, Oregon, CCLI (Christian Copyright Licensing International) serves over 250,000 churches, schools and other organizations in more than 30 countries. Over 160,000 churches across North America have an active Church Copyright License, providing legal coverage to copy songs for congregational singing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ee9b9fa8bcc6329df8568a965e976db2/noop.jpg?input=http%3A%2F%2Fworshipfuel.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2016%2F01%2FTop50-3.jpg"></article>]]></description>
+            <link>http://worshipfuel.com/the-top-50-worship-songs-we-sang-last-weekend/</link>
+            <guid isPermaLink="false">9f1d64a8-2e4e-4dac-824a-dc4ec8198bcb</guid>
+            <pubDate>Fri, 15 Jul 2016 22:27:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
