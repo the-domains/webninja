@@ -6,9 +6,9 @@ color:
   saturation: 0.2576943291351199
   rhythmicContrast: 0.3098542613442987
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: webninja
