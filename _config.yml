@@ -1,0 +1,14 @@
+layout_spectrum: 0.3681249446235597
+typography_spectrum: 0.3292137358803302
+color:
+  brandStrength: 0.7282707991544157
+  lightness: 0.5503089220728725
+  saturation: 0.2576943291351199
+  rhythmicContrast: 0.3098542613442987
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: webninja
