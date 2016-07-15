@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[webninja]]></title>
         <description><![CDATA[webninja]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/webninja/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 22:27:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jul 2016 22:31:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/webninja/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Everything Comes Alive - We Are Messengers | Worshipfuel]]></title>
+            <description><![CDATA[<article><h1>Everything Comes Alive - We Are Messengers | Worshipfuel</h1><p>Written by Darren Mulligan, Josh Bronleewe</p><img src="http://worshipfuel.s3.amazonaws.com/wp-content/uploads/2016/06/7050609.jpg"></article>]]></description>
+            <link>http://worshipfuel.com/everything-comes-alive-we-are-messengers/</link>
+            <guid isPermaLink="false">d1b60ad3-a7c4-438c-855f-2c76ed1796e0</guid>
+            <pubDate>Fri, 15 Jul 2016 22:30:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Top 50 Worship Songs We Sang Last Weekend | Worshipfuel]]></title>
             <description><![CDATA[<article><h1>The Top 50 Worship Songs We Sang Last Weekend | Worshipfuel</h1><p>Tucked in the rainy Northwest corner of the United States, just outside of Portland, Oregon, CCLI (Christian Copyright Licensing International) serves over 250,000 churches, schools and other organizations in more than 30 countries. Over 160,000 churches across North America have an active Church Copyright License, providing legal coverage to copy songs for congregational singing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ee9b9fa8bcc6329df8568a965e976db2/noop.jpg?input=http%3A%2F%2Fworshipfuel.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2016%2F01%2FTop50-3.jpg"></article>]]></description>
